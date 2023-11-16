@@ -9,7 +9,7 @@ export default function Login() {
 
   function handleRegister() {
     navigation.navigate('Register');
-  }
+  } 
 
   return (
     <View style={styles.container}>
